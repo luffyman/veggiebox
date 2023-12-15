@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "veggiebox-agent-pkpa",
+  "private_key_id": "4c40ae269a525d807c8cbea86d73e581ebcf7cd0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC6QggQsPMQ0Qzx\nu0CVJzYwPtFkrLaQK0MOhkYSuxSt87Z+FgpC3BnR2aV9oSR8PTl9IQ0VI8GkJ3dh\na+p4O0/JkA30Luee2YUMNM/ASgGfpC+X6lhgDa3G8UrQmQ96ohsCE3RtpLwU8NHM\npWs6Pr06TunK/0mMamorqft/6Y9s9kBAW32QKyLORMf225KFuN9CbACTE2zYS0e6\nvrhSe8oA5TzWEdDQ7wtonO6ZQ+GxwcYJ0bRcKqdN6pVBUFoC4XMxdOHRYZkTNKcL\naeIwepN2Lte82IVaB5jgwzy/Ngbu7fd8sSP1DI5NYdhZTEa8SDtvtnTJetX19DvE\nY9czgmPLAgMBAAECggEAAz6JWlmw2FNfjR2/GQFhiXu/3GzAzaDVvnzeaSKmnxmr\nVyqWMLUtXfTYQC18iEiLL855HHqxHgLeSDwiNRcnFKFAzjMeCCvWs5e6XNDtMCjT\n97SFRY5tl9oiQaEj9vWkgY82bEO5FDCbMf6UjbcrRxWmVrXuHH57j96GuHuoYNHG\nih5Mue1A+6VdmpivOritJFZf77F3RdOdIYbXWsYbgvMaXm413T6p70uJf+X8FOLv\n4n7b3BV1+zXhBxX9Yd0tKcDntzvK+Hwkeq8gNaFha+xPr5rvJPg9DSXa2raReGXk\nZsMgxdKrJRXyHZFD4UUUQmBtTMAFrb0NJ1wSwl2fQQKBgQDsI/YH8QsZ+bu3ZtaW\ntLqY21FNePubZ60pSPnz/eBarIyULXNyYqPHz0rNtoL6vTBB1/UaA6lht479bykY\n3ywQcKK7oSgw8EjfK5e49YZSHbAqMpa6SsaIFhXGboUKEzlIZTJEV+p3Bim9uILN\nC2aE4iKicDq1oJiZPze28+/iDwKBgQDJ7Bz9XjuI+TN/QFw1JyE4lPYixH3CjlTd\nZSW5ni5hkWEgYSPSrz7AZkYU79d4dYwrESkDQoq+vld37qovgfHGOBOl80Rd7kOL\nAEWTHiseNPveEVQm/iRSPYlN4+ZsddzfCjbwYA2WTFtWJgg4HzV8BdVPDG4W5jQR\nl2PRqMjuhQKBgCJG4gqrEYp2tqnbkqCToVZY14dgXV1kgj0w659gJbXjwBAuPMjI\nyq9RRrFvobmVxrB4EYryJx8ZDvd4sEV89593ShfkP7pC1sEWSdK+SP4Ycx7c8wYd\nno3Ybta76jHZMoJwtgg3nsAiM+LnKo1q7zmwvYhItCzzH9N22raC2Do/AoGAW33X\nuNn8wdigg9UmspLTU67zQ9eiYAhb3aEaEdvhiiX0S1aYg7sSBN2SfaQbDqK8azsw\nSSDaewkF2vrSNAp+AWGhTX1HigQOqKnr3Hg780jworNZXP2keXsWfqt32cch2BHp\nyMrM/UAF1qgO61cAxfxipZmtPET8bMga24HN4X0CgYAfKlAW1TMA1vwilhqdTucn\ne4aqishznPwVr9yoc+su5aN00dQqdVbUpKLTPNddfxjbJQnFPaphxls2vkYuXLTJ\nROLzgN4i6BQolTx6yvd6+nMIVISysEq35d/i5TGfDAsHulKNpGzYdOOI4XRq3vFn\ntSUUyHxgPX0AXY7GQhkygA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "veggie@veggiebox-agent-pkpa.iam.gserviceaccount.com",
+  "client_id": "106741563700836345804",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/veggie%40veggiebox-agent-pkpa.iam.gserviceaccount.com"
+}

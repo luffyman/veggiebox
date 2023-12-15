@@ -1,0 +1,31 @@
+[
+   {
+     responseId: '1272a6db-2999-48e5-a9c4-da44588b6b6a-a44e24fc',
+     queryResult: {
+       fulfillmentMessages: [Array],
+       outputContexts: [],
+       queryText: 'Hi',
+       speechRecognitionConfidence: 0,
+       action: 'greeting',
+       parameters: [Object],
+       allRequiredParamsPresent: true,
+       fulfillmentText: 'hello',
+       webhookSource: '',
+       webhookPayload: null,
+       intent: [Object],
+       intentDetectionConfidence: 1,
+       diagnosticInfo: [Object],
+       languageCode: 'en',
+       sentimentAnalysisResult: null
+     },
+     webhookStatus: {
+       details: [],
+       code: 14,
+       message: 'Webhook call failed. Error: UNAVAILABLE, State: URL_UNREACHABLE, Reason: UNREACHABLE_5xx, HTTP status code: 500.'
+     },
+     outputAudio: <Buffer >,
+     outputAudioConfig: null
+   },
+   null,
+   null
+ ]
